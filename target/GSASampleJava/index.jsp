@@ -1,8 +1,8 @@
 <html>
 <body>
 <h2>Hello World!</h2>
+<h3>first automated deployment</h3>
 <p> this is my first jenkin deployment by automation.
-removed other lines and checking its working fine.
 Env Variable: <% out.print(System.getenv("BUILD_ID")); %>
 </p>
 </body>
